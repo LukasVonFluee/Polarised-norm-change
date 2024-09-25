@@ -4,7 +4,7 @@ Polarised norm change simulation
 
 Steps to follow:
 
-1) Copy/download repository in a directory on your personal computer: Open as R project with the file "tipping_review.Rproj" to have automatic setting of working directory.
+1) Copy/download repository in a directory on your personal computer: Open as R project with the file "homophily.Rproj" to have automatic setting of working directory.
 
 2) First execute the simulation with sim.R. Output of simulation should then automatically be stored in working directory.
 
